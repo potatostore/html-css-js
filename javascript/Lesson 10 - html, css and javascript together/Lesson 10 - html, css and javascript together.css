@@ -1,0 +1,74 @@
+.cart-button{
+    display: block;
+    background-color: rgb(255, 216, 20);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+    width: 150px;
+    height: 30px;
+}
+
+.request-button{
+    background-color: black;
+    color: white;
+    border: none;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.scheduler-button{
+    background-color: rgb(230,230,230);
+    border: none;
+    width: 150px;
+    height: 40px;
+    font-size: 16px;
+    border-radius: 5px; 
+}
+
+.js-button{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.gaming-button{
+    width: 100px;
+    height: 30px;
+}
+
+.gaming-button:hover{
+    cursor: pointer;
+}
+
+.OFF-button{
+    background-color: black;
+    color: white;
+}
+
+.ON-button{
+    background-color: lightpink;
+    color: black;
+    border: none;
+}
+
+.music-button{
+    width: 100px;
+    height: 30px;
+}
+
+.music-button:hover{
+    cursor: pointer;
+}
+
+.tech-button{
+    width: 100px;
+    height: 30px;
+}
+
+.tech-button:hover{
+    cursor: pointer;
+}
